@@ -1,8 +1,8 @@
 {
-  "versionCode": 29,
-  "versionName": "1.10.0",
-  "mandatory": false,
-  "title": "ESTRYX atualizado",
-  "message": "Uma nova versão do ESTRYX está disponível.",
-  "downloadUrl": ""
+  "versionCode": 37,
+  "versionName": "1.11.6",
+  "mandatory": true,
+  "title": "Atualização disponível",
+  "message": "Atualize o ESTRYX para continuar usando. Otimização temporariamente indisponível e correção das consultas root.",
+  "downloadUrl": "https://4br.me/1116"
 }
